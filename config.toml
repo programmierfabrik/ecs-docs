@@ -1,4 +1,7 @@
 baseURL = ''
 languageCode = 'de-AT'
-title = 'ECS Handbuch'
 theme = "hugo-book"
+
+defaultContentLanguage = 'de'
+[languages.de]
+  title = 'ECS Handbuch'
