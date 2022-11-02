@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = '/help'
 languageCode = 'de-AT'
 theme = "hugo-book"
 
