@@ -44,7 +44,7 @@ weight: 8
 
 Verwenden Sie für diese Schritte den Webbrowser welchen Sie später für das ECS zum signieren einsetzen wollen. Je nach Betriebsystem können verschiedene Browser/Java Kombination eventuell nicht funktionieren. Signieren mit Firefox ist auf allen (Windows,Mac,Linux) Platformen funktional. Falls Sie einen weiteren Browser zur Signierung verwenden wollen, wiederholen Sie die Punkte 2 und 3 um den Browser für Mocca zu konfigurieren und zu testen. Deinstallieren Sie den A-Trust Client, falls er installiert ist.
 
-1. `Installation der lokalen Bürgerkartenumgebungs-Software Mocca <https://webstart.buergerkarte.at/mocca/webstart/mocca.jnlp>`\_
+1. [Installation der lokalen Bürgerkartenumgebungs-Software Mocca](https://webstart.buergerkarte.at/mocca/webstart/mocca.jnlp)
 
 2. Mit gestarteter Mocca Software (im ausgewählten Webbrowser):
 
