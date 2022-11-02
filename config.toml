@@ -1,0 +1,6 @@
+baseURL = 'http://example.org/'
+languageCode = 'de-AT'
+title = 'ECS Handbuch'
+theme = "hugo-book"
+
+[params]
