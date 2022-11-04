@@ -6,7 +6,7 @@ weight: 4
 
 ### Einreichung
 
-![Einreichung](/submission.png)
+![Einreichung](submission.png)
 
 Der Arbeitsablauf einer Studie beginnt mit der **Einreichung**.
 Nach dieser wird der Antrag vorab auf inhaltliche Vollständigkeit und formale Richtigkeit überprüft.
@@ -35,7 +35,7 @@ Das EK-Office kann auch ein **Gutachten** anfordern. Dieses wird von einer ausse
 
 ## Votum/Mitteilung
 
-![Votum/Mitteilung](/vote.png)
+![Votum/Mitteilung](vote.png)
 
 Nach Beendigung einer Sitzung wird für alle Studien, zu denen in dieser Sitzung ein Beschluss gefasst wurde, der Votum-Arbeitsablauf gestartet.
 
@@ -78,7 +78,7 @@ Die Studie gilt als zurückgezogen.
 
 ## Meldung
 
-![Meldung](/notification.png)
+![Meldung](notification.png)
 
 Nachdem eine Meldung eingereicht wurde, wird diese von einem Mitarbeiter der Office-Gruppe überprüft und beantwortet.
 Dieser erste Arbeitsschritt ist im Sinne der Arbeitsverteilung nach Meldungstypen unterschieden.
