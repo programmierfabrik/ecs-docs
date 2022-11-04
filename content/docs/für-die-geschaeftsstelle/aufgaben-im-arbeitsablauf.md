@@ -50,7 +50,7 @@ Das signierte Votum wird danach vom ECS automatisch den Einreicher und anderen b
 Im Falle der temporären Beschlüsse (B2,B3) und der Zurückziehung der Studie (B5) entfällt der Signierungsschritt und das ECS veröffentlicht die Mitteilung direkt nach positiven Abschluss der Tätigkeit "Votum Überprüfung Executive"
 
 Für die elektronische Signierung wird eine Signaturkarte benötigt.
-Zur Installation und Konfiguration siehe den Abschnitt ":doc:`signature` "
+Zur Installation und Konfiguration siehe den Abschnitt [Elektronische Signatur]({{< ref "./elektronische-signatur" >}})
 
 ### Mögliche Beschlüsse
 
