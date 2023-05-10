@@ -6,7 +6,7 @@ weight: 4
 
 ### Einreichung
 
-![Einreichung](submission.png)
+![Arbeitsablauf einer Studie]({{< resource url="submission.png" >}})
 
 Der Arbeitsablauf einer Studie beginnt mit der **Einreichung**.
 Nach dieser wird der Antrag vorab auf inhaltliche Vollständigkeit und formale Richtigkeit überprüft.
@@ -31,11 +31,11 @@ Für Studien nach anderen Arbeitsabläufen (_Expedited_, _Retrospektive Dipl./Di
 
 **Zusätzliche Beurteilungen** können nach Bedarf jederzeit angefordert werden. (Während der Einstufung, oder im _Arbeitsablauf_-Tab in der Leseansicht einer Studie.)
 
-Das EK-Office kann auch ein **Gutachten** anfordern. Dieses wird von einer aussenstehenden Person durchgeführt, die für die einreichenden Personen anonym bleibt. Sobald so ein Gutachten eingelangt ist, kann es von einem Executive-Mitglied veröffentlicht oder fallen gelassen werden. Ein fallen gelassenes Gutachten wird bei der Beschlussfindung nicht berücksichtigt.
+Das EK-Office kann auch ein **Gutachten** anfordern. Hierbei wird eine außenstehende Person beauftragt, die für die einreichende Partei anonym bleibt oder bei einer internen Veröffentlichung vollständig verdeckt wird. Sobald ein solches Gutachten eingegangen ist, kann es von einem Executive-Mitglied veröffentlicht, intern veröffentlicht oder fallen gelassen werden. Wird ein Gutachten fallen gelassen, wird es bei der Entscheidungsfindung nicht berücksichtigt.
 
 ## Votum/Mitteilung
 
-![Votum/Mitteilung](vote.png)
+![Arbeitsablauf für Votum/Mitteilung]({{< resource url="vote.png" >}})
 
 Nach Beendigung einer Sitzung wird für alle Studien, zu denen in dieser Sitzung ein Beschluss gefasst wurde, der Votum-Arbeitsablauf gestartet.
 
@@ -78,7 +78,7 @@ Die Studie gilt als zurückgezogen.
 
 ## Meldung
 
-![Meldung](notification.png)
+![Arbeitsablauf einer Meldung]({{< resource url="notification.png" >}})
 
 Nachdem eine Meldung eingereicht wurde, wird diese von einem Mitarbeiter der Office-Gruppe überprüft und beantwortet.
 Dieser erste Arbeitsschritt ist im Sinne der Arbeitsverteilung nach Meldungstypen unterschieden.
