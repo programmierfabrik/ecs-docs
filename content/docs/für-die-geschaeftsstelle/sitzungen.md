@@ -87,6 +87,23 @@ Im Tab _Einreichungen_ sehen Sie eine Aufstellung der Tagesordnungspunkte in chr
 
 Unter _Meldungen_ sehen Sie alle Meldungen, die zwischen dem letzten und dem laufenden Protokoll eingegangen sind.
 
+### Protokoll
+
+Der Reiter _Protokoll_ besteht aus zwei Teilen. Im ersten Teil können TOPs, die manuell unter **Termin hinzufügen** erstellt wurden (keine Pausen), im Nachhinein bearbeitet werden. Dabei kann der während der Sitzung aufgeschriebene Text geändert werden. Der zweite Teil erscheint erst, wenn das Protokoll im Reiter _Status_ mit **PDF erstellen** erstellt wurde. Es besteht nun die Möglichkeit, Gruppen anzugeben, welche das Protokoll per E-Mail erhalten sollen. Es ist zu beachten, dass das Protokoll nur einmal abgeschickt werden kann. Außerdem kann man die Board-Member einschränken, so dass nur diejenigen das Protokoll erhalten, die im Reiter _EK-Mitglieder_ angekreuzt sind. Bevor man das Protokoll abschickt, kann man sich noch einmal die betroffenen Benutzer anzeigen lassen, die das Protokoll dann erhalten werden.
+
+Nach dem Abschicken des Protokolls kann man für spätere Einsicht sehen, welche Gruppen das Protokoll erhalten haben und welche Benutzer betroffen waren.
+
+### Krankenanstalten
+
+Hier können Nutzer den Protokollauszug einer einzelnen Studie erstellen und an die entsprechenden [Krankenanstalten](../verwaltung#krankenanstaltverwaltung) senden, die während der Einstufung der Studie zugewiesen wurden. Der Protokollauszug enthält Informationen zum TOP und Votum. Es besteht auch die Möglichkeit, alle Protokollauszüge gleichzeitig zu erstellen und zu versenden.
+
+
+### EK-Mitglieder
+
+In diesem Bereich werden alle EK-Mitglieder aufgelistet, die **Board Member**, **Resident Board Member**, **Omniscient Board Member** sind und zur Gruppe **Specialist** gehören. Es ist möglich, diese Mitglieder zuzuweisen oder zu entfernen. Dadurch werden automatisch Spezialistenaufgaben für diese Mitglieder erstellt und durchgestrichen. Wenn eine Studie von einer Sitzung auf eine andere verschoben wird, werden alle Aufgaben, die für diese Studie und Sitzung erstellt wurden, durchgestrichen und die Aufgaben für die zweite Sitzung erstellt, falls welche zum Erstellen sind. Wenn die Sitzung abgeschlossen ist, werden die noch offenen, automatisch erstellten Spezialistenaufgaben durchgestrichen.
+
+Falls eine Spezialistenaufgabe bereits manuell erstellt wurde, wird das System die gleiche Aufgabe nicht erneut erstellen. Manuell erstellte Aufgaben werden auch nicht automatisch am Ende der Sitzung geschlossen.
+
 ## Planung
 
 ### Spezialistenzuordnung

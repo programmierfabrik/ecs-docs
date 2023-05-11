@@ -92,6 +92,14 @@ Andere Ethikkommissionen werden automatisch über sie betreffende multizentrisch
 
 In der Statistik sehen Sie die Summe aller Einreichungen sowie eine Aufschlüsselung nach bestimmten Kriterien: Die Anzahl der kommerziell gesponserten Studien, der multizentrischen Studien, der Studien nach dem AMG und jene nach dem MPG, die Studien mit einem B1, einem B2 oder einem B3 als Votum, sowie die Anzahl der abgelehnten bzw. zurückgezogenen Studien. Die Studien nach dem AMG und dem MPG sind zusätzlich nach ihrer Einreichungsart aufgeschlüsselt.
 
+## Kategorienverwaltung
+
+Hier können Kategorien mit Abkürzungen erstellt, deaktiviert und bearbeitet werden. Diese Kategorien können später Personen unter [Benutzerverwaltung](#benutzerverwaltung) oder beim [Einstufen einer Studie](../eingereichte-studie#generelleinstufung) zugewiesen werden. Wenn eine Kategorie jedoch deaktiviert wird, wird sie nicht mehr als Option zum Auswählen angezeigt. Studien und Personen, denen bereits Kategorien zugewiesen wurden, bleiben unverändert.
+
+## Krankenanstaltverwaltung
+
+Hier werden die **Krankenanstalten** verwaltet, die nach einer Sitzung über das Votum für eine Studie informiert werden sollen. Dazu werden die **Krankenanstalten** zunächst unter der **Krankenanstaltverwaltung** angelegt und später während der **Einstufung** den Studien zugewiesen. Nach Abschluss der Sitzung können unter dem Reiter **Krankenanstalten** die Protokollauszüge erstellt und per E-Mail an die entsprechenden **Krankenanstalten** versendet werden. Weitere Informationen dazu finden Sie [hier](../sitzungen#krankenanstalten).
+
 ## Textbausteine
 
 Textbausteine ermöglichen Ihnen, längere Texte, die Sie oft verwenden, unter einem Kürzel abzuspeichern.
