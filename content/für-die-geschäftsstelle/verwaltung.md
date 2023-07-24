@@ -100,6 +100,12 @@ Hier können Kategorien mit Abkürzungen erstellt, deaktiviert und bearbeitet we
 
 Hier werden die **Krankenanstalten** verwaltet, die nach einer Sitzung über das Votum für eine Studie informiert werden sollen. Dazu werden die **Krankenanstalten** zunächst unter der **Krankenanstaltverwaltung** angelegt und später während der **Einstufung** den Studien zugewiesen. Nach Abschluss der Sitzung können unter dem Reiter **Krankenanstalten** die Protokollauszüge erstellt und per E-Mail an die entsprechenden **Krankenanstalten** versendet werden. Weitere Informationen dazu finden Sie [hier](../sitzungen#krankenanstalten).
 
+## Unterstützende Dokumente
+
+Im Bereich _Unterstützende Dokumente_ können Mitglieder der Gruppe **Supporting Documents** Dokumente für bestimmte Aufgaben erstellen, bearbeiten, herunterladen und löschen. Diese Dokumente erscheinen während der Aufgabenbearbeitung in der oberen Leiste neben dem Titel und können heruntergeladen werden.
+
+Die Suche ist anhand des Dateinamens und der Aufgabenart möglich. Beim Erstellen eines Dokuments lädt man eine Datei hoch und definiert die sichtbaren Aufgabenarten. Beim Aktualisieren können Aufgabenarten hinzugefügt oder entfernt und das Dokument selbst ersetzt werden.
+
 ## Textbausteine
 
 Textbausteine ermöglichen Ihnen, längere Texte, die Sie oft verwenden, unter einem Kürzel abzuspeichern.

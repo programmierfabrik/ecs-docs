@@ -1,1 +1,6 @@
 = ECS Docs
+
+== Start Hugo Server
+```bash
+hugo server
+```

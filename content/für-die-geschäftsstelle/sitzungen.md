@@ -104,6 +104,10 @@ In diesem Bereich werden alle EK-Mitglieder aufgelistet, die **Board Member**, *
 
 Falls eine Spezialistenaufgabe bereits manuell erstellt wurde, wird das System die gleiche Aufgabe nicht erneut erstellen. Manuell erstellte Aufgaben werden auch nicht automatisch am Ende der Sitzung geschlossen.
 
+### Begleitende Sitzungsunterlagen
+
+In den _Begleitenden Sitzungsunterlagen_ haben die Gruppenmitglieder von **EC-Office** & **EC-Executive** die Möglichkeit, Dokumente hochzuladen. Zusätzlich können Dokumente mit der **Board Member Einsicht** Markierung versehen werden, sodass alle **Board Member**, **Resident Board Member**, **Omniscient Board Member** darauf zugreifen können.
+
 ## Planung
 
 ### Spezialistenzuordnung

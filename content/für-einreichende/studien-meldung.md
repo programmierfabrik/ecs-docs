@@ -25,3 +25,7 @@ Der Abschlussbericht markiert die Beendigung einer Studie. Er ist verpflichtend,
 ## Zentrumsschließung
 
 Hier können Sie melden, wenn ein Zentrum geschlossen wurde. Geben Sie dafür alle erforderlichen Daten unter _Allgemeine Angaben_ an. Unterlagen können über den _Unterlagen_-Tab hochgeladen werden.
+
+## In das CTIS überführt
+
+Gemäß Gesetz "idF BGBl. I Nr. 8/2022" müssen alle klinischen Prüfungen von Arzneimitteln bis zum 31.01.2025 ins CTIS übertragen werden. Wenn Sie bereits Ihre AMG-Studie ins CTIS überführt haben, können Sie die Meldung mit der EU-CT-Nummer erstellen.
