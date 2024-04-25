@@ -47,8 +47,12 @@ Im _Status_ finden Sie tabellarisch dargestellte Detailinformationen zur angeleg
 
 - _Agenda versenden_ (Gruppe Office): Wenn Sie auf diesen Link klicken, wird die Tagesordnung und der Zeitplan als PDF-Datei per Email zugesandt. Folgende Personen bekommen die Agenda:
   - Sitzungsmitglieder die bei Einreichungen der Sitzung als Spezialisten beteiligt sind
-  - Mitglieder der Gruppe "Resident Boardmember"
-  - Mitglieder der Gruppe "Omniscient Boardmember"
+    - Das Zeitfenster für eine Sitzung wird folgendermaßen berechnet: Das System ermittelt die Termine/TOPs, an denen der Benutzer beteiligt ist. Der früheste Termin wird als Anfangspunkt auf die nächsten 10 Minuten abgerundet, während der späteste als Endpunkt auf die nächsten 10 Minuten aufgerundet wird. Sollte der resultierende Zeitraum kürzer als 30 Minuten sein, wird er auf 30 Minuten ausgedehnt, was das Ende entsprechend verschiebt. Zum Beispiel:
+      - 10:03-10:47 --> 10:00-10:50 
+      - 10:20-10:40 --> 10:20-10:50 
+      - 09:00-09:30 --> 09:00-09:30
+  - Mitglieder der Gruppe "Resident Boardmember" & "Omniscient Boardmember"
+  - Hauptprüfer die bei der Einstufung Eingeladen worden sind
 - Sobald alle Voten von Einreichungen einer Sitzung erstellt worden sind, kann das Sitzungsprotokoll erstellt werden.
 
   Klicken Sie dafür auf den Link _PDF erstellen_ und warten Sie, bis sich das Rädchen dreht. Laden Sie nach einer Weile die Seite neu, damit der Link _Als PDF herunterladen_ erscheint. Klicken Sie dafür neben der Url auf Reload. Das Protokoll kann nun mittels eines Links heruntergeladen werden. Wenn Änderungen vorgenommen wurden, können Sie mittels des Link _Protokoll verwerfen und neu erstellen_ das Protokoll erneut erstellen.
